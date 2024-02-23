@@ -1,0 +1,11 @@
+C:\Users\razer\source\repos\CustomerProductService\CommonLibrary\bin\Debug\net8.0\CommonLibrary.deps.json
+C:\Users\razer\source\repos\CustomerProductService\CommonLibrary\bin\Debug\net8.0\CommonLibrary.dll
+C:\Users\razer\source\repos\CustomerProductService\CommonLibrary\bin\Debug\net8.0\CommonLibrary.pdb
+C:\Users\razer\source\repos\CustomerProductService\CommonLibrary\obj\Debug\net8.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razer\source\repos\CustomerProductService\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\razer\source\repos\CustomerProductService\CommonLibrary\obj\Debug\net8.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\razer\source\repos\CustomerProductService\CommonLibrary\obj\Debug\net8.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\razer\source\repos\CustomerProductService\CommonLibrary\obj\Debug\net8.0\CommonLibrary.dll
+C:\Users\razer\source\repos\CustomerProductService\CommonLibrary\obj\Debug\net8.0\refint\CommonLibrary.dll
+C:\Users\razer\source\repos\CustomerProductService\CommonLibrary\obj\Debug\net8.0\CommonLibrary.pdb
+C:\Users\razer\source\repos\CustomerProductService\CommonLibrary\obj\Debug\net8.0\ref\CommonLibrary.dll
